@@ -1,45 +1,16 @@
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$@@@@BBBB@@@@@@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@B8&&MMzucz##*zczW%$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$@@@88B@WBM#MM*z#Mzzuzc*z#c8@Wuv*zMBB%@$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$@@$@8*u*z*%WM#&M*W###v###W&cvcc&BB8#Mzc**%@@@@$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$@B&&#*v#cz#uvzMWW8c#MMW%%@@@@8zuvc#$%z***cccz#uW@@@$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$@@&cvczvvz#&Mz*vccc88@$$$$$$$$@BWuvz&%**vz&&8&*z*cz#z%@@$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$@%c###M#cM%%@$@$&uvczz@@$$$$$$@@MucvWW#*nzB@@@@cu#W&vczMB@$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$Bcz8**#*zz&B@$$$@%Wucu8B@$$$$%%&vcvc*@B@zvu%@@@8vuM&BMcvcccB@@$$$$$$$$$$$$
-$$$$$$$$$$$$$@@M*MMc8**M8%@$$$$$@BzvvcM#@@B&Wcvcv*v%%@@@&#cccccuvzcB$$@&cczv%&$$$$$$$$$$$$
-$$$$$$$$$$$$@@@B%BBB@%WBB@@$$$$$@@8vcv#&&#ccvvvzWWW@@$$$@@%#WW##8@@@$$$B8M*zcu&B@$$$$$$$$$
-$$$$$$$$$$$&*@B%B@#zW&z#B&8@@$$$@&zccc%#uvvvzWBWBB%WM###**##MMWW%@$@$$$@@%*uzzczB$$$$$$$$$
-$$$$$$$$$$Bu#*zvvvvucvvvvc#&M8@B@Wucv##uv*v@&%M#zzvc*zzzcvczzzzvcc**W8B@@@@B*czzz$$@$$$$$$
-$$$$$$$@@Bcc#ucvuvMW#v#zvvvv*%&B%Mvuv*nzc%B@%cucccczcvucc*z*vcz*cvvczvu*&B@@BMczzWM@$$$$$$
-$$$$$$$BMczvccvMBB@$$$$BM&zcvc#WMzcu#zzBW@@$$@@W*zcvczczvvcvz**ccccvvvccvv#8BBWvc**%$$$$$$
-$$$$$$$#uz#zv*8@$$$@@@@@@B8&zcvz#cuv*z#%@@$$$$@$&cucccvvczcvvM&W#zvvccvcvcvccMB8*v*uB@$$$$
-$$$$$@$zM#*MnWB@$$$@W*8WzW@@Mccvu#vu*z*B@@$$$$$@8zvcvcu&@@@&zB@%%@%*cvvcvvczcuzB%*cuWW@$$$
-$$$$@$&zWu8#z&@@@$@B%%cv*u@@@8uvcc**zv88@@@@$@BB*vvcvvuM@@$$@@@*cv#%Wv#&&#vvccccMBc*uv$@$$
-$$$$@@*zW*W#c%$$@@8zMuvzvzB@@%8uvcvcz#*zzM&##W#vzMzcMB@@@$@$@@8uccMv#BB@@@&vvvzuccWvcn@@$$
-$$$$@%&#WB@@B$$$$$B@@BB%*vc&%@8Wucvcvvvcccvcvvccccvcc##zMBBB&#zcvzvcc*#B@$@#vuvvvc#MvuB$$$
-$$$$@@@B@@@@B@@$$@@$$$@BBuWcuv#@*vvvvccvccccccccccvvczzc**cczvcccu#vcczz@@@@ucvvzucW#uW@$$
-$$$$@Buz@@@88B&&%@$@$$$B8u&@BMzvvz#cccvvccvcccccccccccccccccvccvcv#cc*vzv&@@*vvvcccz%zM@$$
-$$$$$%uc@@*vcvuuvzMW@@$B&%@@B@@BM#Buvcccvccvcccccvccccccczccvzvvcc*cvc*vcv&@M##ccccc*%#$$$
-$$$$@Buc&vuz&8%%M#v*%@@@@X@$@%B@vvvvvcuM*vccccccvcvvvvvv*zzzzvvzcvv*vzzvB@B@B*vcvc@W@$$
-$$$$@@cuWu#$@$$$@$*uv#@&*M*zvW@@@@@&vvvcvv*vccccccccczczvccu#ucuMucvcczcc*cz@@$@@ncucW@$$$
-$$$$$@Wvv*@@@$$$@@8vn8B&BWcczcWWWM*v#vucvWMW*vzuvcvvcczvvccvcvcvnMucccccvzcv&@@@@ncvz#@$$$
-$$$$$@@Mvv#%@$@$@@zuz#@&vzzz*zcv*##*#*#v&@B&zMB%W&zz#zuccccccccvcWM&@Wvcvzvzz$@B8ucv*#@$$$
-$$$$$$@*zz*czM##cvv*B8@#@@$$@@%czB@@@8#&@&*&#cvWBB%8#vvccccccccvzv&z@@zcccvzvB@Bvvcvz%@$$$
-$$$$$$$Wu#&MM#z#M8#@$@$$@$$$$@@&uB@@$$@@@%%*zczczccz*vccccccvccvcu*8@@#vv*c*u8@#cccvz@@$$$
-$$$$$$$%ccu%B@B$$@$$$@@B@@B%&@@%B@@$$$$@@WWM&8&&Mv#B&uvccvvzzcvcvu8z@Bccu*vcu8@@@ucc&$@$$$
-$$$$$$$@%*uv%$$$$$$$@%*#Mcvzz#*#M&@@$$$@%8@$$$$$$&c&Bzucv#Mczczvv*cB$%&zvcccc@@@$uvM@$$$$$
-$$$$$$$$$%cvcB@$$$@WB*cuvz*zzuvvcM%B$$@&M#vMB@@@@&MWcMccz@zcccccuWx@$@$MvvzvM@@@Mu*@$$$$$$
-$$$$$$$$$$BWucW@@@8vzuz8B@@@@B&zuvzM@@%*#*cccz*zcvvzzz#u88vcvccvzWW@@$@cvzccB@@Wu*B@$$$$$$
-$$$$$$$$$$$B&cv*B@8vcv%@@$$$$$@@*vvW%@BB8zz####*v#8B@@&#@#vccvc*u8@@@8vcccv%B@8uM$$$$$$$$$
-$$$$$$$$$$$@@@MvcWWuvc@@$$$$$$@@8vvz&@$8v%@$$@@$%WuB@@@@WvvccccM#@%Wzuczuu&@BWz%@$$$$$$$$$
-$$$$$$$$$$$$$@B8#nzczu%@$$$$$@@@MvzzM@@@B@$$$$$$@8&@@B@&vcvvzzcB$@%zcuccc%@%v#@@$@$$$$$$$$
-$$$$$$$$$$$$$$$@@B88cuv&@@@$@B&cvvcB@$$$$$$$$$$$$@@@BWcvvvc*W#@@$B@#vvc#@B##B@$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$@8*zvcczM*cvu*Mz&@$$$$$$$$$$$$@B&Mvvcvz*v%@@@@@%#vvcWBW#%@@@$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$@$%Wccvvcc*#z88@B@@@@@BB88WM#zcuccvcMB8B%&W&*cvcM&@8WB@$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$@@BB8@&#zccvvuvccvcuvvvcvvucvvc&8&@B@@zvcvvzzM8B$@@@$@$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$@8WMM###ccccc#zvvzW8MW%@@@@@@%*vcc*W&@$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$@$B%B@@B&MB@$@@$@BB%&#zccM&8@$$@$$$$$$$$$$$$$$$$$$$$$$$$$$
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$&&WWMM###*#MW8%BB@@$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+   (  )   /\   _                 (     
+    \ |  (  \ ( \.(               )                      _____
+  \  \ \  `  `   ) \             (  ___                 / _   \
+ (_`    \+   . x  ( .\            \/   \____-----------/ (o)   \_
+- .-               \+  ;          (  O                           \____
+                          )        \_____________  `              \  /
+(__                +- .( -'.- <. - _  VVVVVVV VV V\                 \/
+(_____            ._._: <_ - <- _  (--  _AAAAAAA__A_/                  |
+  .    /./.+-  . .- /  +--  - .     \______________//_              \_______
+  (__ ' /x  / x _/ (                                  \___'          \     /
+ , x / ( '  . / .  /                                      |           \   /
+    /  /  _/ /    +                                      /              \/
+   '  (__/                                             /                  \
 
 
 
