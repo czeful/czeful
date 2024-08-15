@@ -5,9 +5,6 @@
 <h1 align="center">Hi, I'm bieber </a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 
-<p align="center">
-  <a href="https://github.com/yuna0x0"><img src="https://github-readme-stats.vercel.app/api?username=yuna0x0&hide_border=true&show_icons=true" alt="yuna0x0's github stats"></a>
-</p>
 
 <p align="center">
   <strong><a href="https://t.me/zhayleubay">Telegram</a></strong> |
