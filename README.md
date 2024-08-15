@@ -1,4 +1,4 @@
-<h1 align="center">Cho tam?</a>!</h1>
+<h1 align="center">Cho tam? 👋</a></h1>
 <p align="center">
   <a><img src="aiteehee-ai-hoshino.gif" alt="Banner" width="400" height="300"></a>
 </p>
@@ -14,9 +14,7 @@
 
 </br>
 </br> 
-
-###       - Dangerous to watch, protect your eyes
-
+<h1 align="center">Warning: Dangerous to view. Protect your eyes.🫡</a>!</h1>
 <p align="center">
  <a><img src="another-anime.gif" alt="Banner"  width="700" height="300" ></a>
 </p>
