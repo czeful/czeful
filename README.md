@@ -1,7 +1,4 @@
-
-
-<div class="tenor-gif-embed" data-postid="6392464152220172998" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/aiteehee-ai-hoshino-gif-6392464152220172998">Aiteehee Ai Hoshino Sticker</a>from <a href="https://tenor.com/search/aiteehee-stickers">Aiteehee Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+![Alt Image](https://tenor.com/ru/view/another-anime-tsundere-izumi-akazawa-izumi-gif-10365320208889315203)
 
 
 
