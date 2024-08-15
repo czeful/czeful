@@ -1,6 +1,10 @@
 ![Alt Image](aiteehee-ai-hoshino.gif)
 
 
+<img src="iaiteehee-ai-hoshino.gif" alt="Alt Text" width="1500" height="1300">
+
+
+
 
 
 
