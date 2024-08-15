@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm bieber </a>!</h1>
-<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
+<h1 align="center"></h1>
 
 
 <p align="center">
