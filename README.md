@@ -10,7 +10,7 @@
   <strong><a href="https://discordapp.com/users/308799588825825293/">Discord</a></strong> |
 </p>
 <p align="center">
- <a><img src="another-anime.gif" alt="Banner"  width="400" height="300" ></a>
+ <a><img src="another-anime.gif" alt="Banner"  width="700" height="300" ></a>
 </p>
 
 
