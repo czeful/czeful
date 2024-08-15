@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://tenor.com/ru/view/aiteehee-ai-hoshino-gif-6392464152220172998"><img src="kita-ikuyo-rap.webp" alt="Banner"></a>
+  <a href="https://tenor.com/ru/view/aiteehee-ai-hoshino-gif-6392464152220172998"><img src="aiteehee-ai-hoshino.gif" alt="Banner"></a>
 </p>
 
 <h1 align="center">Hi, I'm bieber </a>!</h1>
