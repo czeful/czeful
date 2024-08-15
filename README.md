@@ -11,7 +11,7 @@
   <strong><a href="https://discordapp.com/users/308799588825825293/">Discord</a></strong> |
 </p>
 
-<p align="center">❤ I'm currently working on Software, Anime / Manga, Game Dev, and Content Creation.</p>
+
 
 
 
