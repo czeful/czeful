@@ -15,7 +15,7 @@
 </br>
 </br> 
 
-### - dangerous to watch, protect your eyes
+###       - Dangerous to watch, protect your eyes
 
 <p align="center">
  <a><img src="another-anime.gif" alt="Banner"  width="700" height="300" ></a>
