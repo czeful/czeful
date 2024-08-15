@@ -1,4 +1,5 @@
-![Alt Image](https://tenor.com/ru/view/another-anime-tsundere-izumi-akazawa-izumi-gif-10365320208889315203)
+![Alt Image](another-anime.gif)
+
 
 
 
