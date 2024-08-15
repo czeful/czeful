@@ -2,7 +2,7 @@
   <a><img src="aiteehee-ai-hoshino.gif" alt="Banner"></a>
 </p>
 
-<h1 align="center">Hi, I'm bieber </a>!</h1>
+<h1 align="center">Cho tam?</a>!</h1>
 <h1 align="center"></h1>
 
 
