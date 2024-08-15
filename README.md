@@ -1,5 +1,5 @@
 <p align="center">
-  <a><img src="aiteehee-ai-hoshino.gif" alt="Banner" width="500" height="300"></a>
+  <a><img src="aiteehee-ai-hoshino.gif" alt="Banner" width="400" height="300"></a>
 </p>
 
 <h1 align="center">Cho tam?</a>!</h1>
