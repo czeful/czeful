@@ -4,7 +4,7 @@
 </p>
 
 
-### - I'm 19 years  old, CS from KARAGANDA.
+### - I'm 20 years  old, CS from KARAGANDA.
 
 ### - Hobbies : 
 - ✨ Gaming Addict
