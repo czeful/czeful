@@ -4,7 +4,7 @@
 </p>
 
 
-### - I'm 20 years  old, CS from KARAGANDA.
+### - I'm 20 years  old, ML Engineer from KARAGANDA.
 
 ### - Hobbies : 
 - ✨ Gaming Addict
@@ -12,7 +12,11 @@
 - ✨ Reading Light Novels
 - ✨ read Manga
 
-</br>
+<h2 align="center"> Tools & Technologies</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,postgresql,aws,mongodb,pytorch,docker,fastapi,nodejs" />
+</p>
 </br> 
 <h1 align="center">Warning: Dangerous to view. Protect your eyes.🫡</a>!</h1>
 <p align="center">
@@ -24,23 +28,6 @@
   <strong><a href="https://discordapp.com/users/308799588825825293/">Discord</a></strong> |
   <strong><a href=https://steamcommunity.com/id/AdRenaLinPRO/">Steam</a></strong> |
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
