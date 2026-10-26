@@ -13,7 +13,7 @@
 <p align="center">
   <strong><a href="https://t.me/zhayleubay">Telegram</a></strong> |
   <strong><a href="https://discordapp.com/users/308799588825825293/">Discord</a></strong> |
-  <strong><a href=https://steamcommunity.com/id/AdRenaLinPRO/">Steam</a></strong> |
+  
 </p>
 
 
