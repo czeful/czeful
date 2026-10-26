@@ -1,16 +1,3 @@
-<h1 align="center">Cho tam? 👋</a></h1>
-<p align="center">
-  <a><img src="aiteehee-ai-hoshino.gif" alt="Banner" width="400" height="300"></a>
-</p>
-
-
-### - I'm 20 years  old, ML Engineer from KARAGANDA.
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
-- ✨ read Manga
 
 <h2 align="center"> Tools & Technologies</h2>
 
